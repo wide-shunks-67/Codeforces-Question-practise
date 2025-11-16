@@ -1,0 +1,1 @@
+#include<iostream>#include<algorithm>using namespace std;int main(){    int t;    cin>>t;    while(t--){        int n;        cin>>n;        long long hao_total=0;        while(n>=3){            long long k=n/3;            hao_total+=k;            n= k+ (n%3);        }        cout<<hao_total<<endl;    }}
