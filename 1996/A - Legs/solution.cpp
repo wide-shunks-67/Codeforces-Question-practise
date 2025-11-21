@@ -1,0 +1,1 @@
+#include<iostream>using namespace std;int  main(){    int t;    cin>>t;    while(t--){        long long n;        cin>>n;         if(n%4==0){            cout<<n/4<<endl;        }         else {            long long no_of_cows=n/4;            n=n-(no_of_cows*4);            long long no_of_chickens=n/2;            cout<<no_of_cows+no_of_chickens<<endl;        }     }    return 0;}
