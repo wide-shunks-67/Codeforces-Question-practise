@@ -1,0 +1,1 @@
+#include<iostream>#include<string>#include<algorithm>using namespace std;int main(){    int t;    cin>>t;    while(t--){        int x;        cin>>x;        if(x<10){            cout<<x<<endl;        }        else{            string s = to_string(x);            sort(s.begin(),s.end());            cout<<s[0]<<endl;        }    }    return 0;}
