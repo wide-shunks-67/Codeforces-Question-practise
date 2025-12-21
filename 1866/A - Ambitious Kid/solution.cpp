@@ -1,0 +1,1 @@
+#include<iostream>#include<vector>#include<algorithm>#define ll long longusing namespace std;int main(){    ll n;    cin>>n;    vector<ll>a(n);    for(ll i=0;i<n;i++){     cin>>a[i];     if(a[i]<0){        a[i]=-a[i];     }    }    sort(a.begin(),a.end());    cout<<a[0]<<endl;    return 0;}
