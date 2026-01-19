@@ -1,0 +1,1 @@
+#include<iostream>#define ll long longusing namespace std;bool isOddDivisorPresent(ll n){    while(n%2==0){        n/=2;    }    return n>1;}int main(){    int t;    cin>>t;    while(t--){        ll n;        cin>>n;        if(isOddDivisorPresent(n)){            cout<<"YES\n";        }else{            cout<<"NO\n";        }    }}
