@@ -84,12 +84,3 @@ This is a personal practice repository, but feel free to:
 - Suggest alternative approaches or optimizations
 - Star the repository if you find it helpful! 
 
-## 📝 License
-
-This repository is for educational purposes.  Feel free to use the code for learning, but please avoid directly copying solutions for contest problems.
-
----
-
-**Happy Coding! 🎯**
-
-*Last updated: 2025-12-22*
