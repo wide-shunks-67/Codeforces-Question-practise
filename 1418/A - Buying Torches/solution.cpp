@@ -1,0 +1,1 @@
+#include<iostream>#include<algorithm>#include<cmath>#define ll long longusing namespace std;int main(){    int t;    cin>>t;    while(t--){        ll x,y,k;        cin>>x>>y>>k;                ll sticks_needed=k*y + k - 1;        ll trades= (sticks_needed + x - 2) / (x - 1) + k; // Ceiling division        cout<<trades<<"\n";    }}
