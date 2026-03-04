@@ -1,0 +1,1 @@
+#include <iostream> using namespace std; int main() {    long long n, m, a;        if (!(cin >> n >> m >> a)) return 0;     long long tiles_n = (n + a - 1) / a;    long long tiles_m = (m + a - 1) / a;     long long total_tiles = tiles_n * tiles_m;     cout << total_tiles << endl;     return 0;}
