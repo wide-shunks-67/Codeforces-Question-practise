@@ -1,0 +1,1 @@
+#include<iostream>#include<vector>#include<climits>using namespace std; int main(){    ios_base::sync_with_stdio(false);    cin.tie(NULL);    int t;    cin>>t;    while(t--){        int sum=0;        int maxi= INT_MIN;        for(int i=0;i<7;i++){            int x;            cin>>x;            sum+=x;            maxi= max(maxi,x);        }        cout<<2*maxi - sum<<"\n";    } }
