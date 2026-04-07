@@ -1,0 +1,1 @@
+#include<iostream>#include<vector>#include<climits>using namespace std; int main(){    ios_base::sync_with_stdio(false);    cin.tie(NULL);    int t;    cin>>t;    while(t--){        int n;        cin>>n;        int a=1;        for(int i=0;i<n;i++){            cout<<a*(a+2)<<" ";            a+=2;        }        cout<<"\n";    } }
