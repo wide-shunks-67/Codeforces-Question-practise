@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 12 |
+| 10 | 12 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (4)
-- [math](#math) (3)
-- [number theory](#number-theory) (2)
+- [math](#math) (4)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
@@ -65,6 +65,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
+| 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
 
 ### implementation
 
@@ -82,6 +83,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
+| 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
 
 ### number theory
 
@@ -89,6 +91,7 @@
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
+| 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
 
 ### sortings
 
