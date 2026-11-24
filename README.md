@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 13 |
+| 20 | 13 |
 
 ---
 
@@ -18,9 +18,9 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (6)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
 - [strings](#strings) (1)
@@ -77,6 +77,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
@@ -101,6 +102,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
