@@ -6,22 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 12 |
+| 18 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (2)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [dfs and similar](#dfs-and-similar) (1)
+- [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (5)
-- [math](#math) (5)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (6)
+- [math](#math) (6)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -37,6 +38,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.cpp) |
 | 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 
@@ -44,6 +47,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 | 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
@@ -55,6 +59,12 @@
 |---|---------|------------|----------|
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+
 ### geometry
 
 | # | Problem | Difficulty | Solution |
@@ -65,8 +75,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
@@ -78,6 +90,7 @@
 |---|---------|------------|----------|
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 475A | [Bayan Bus](https://codeforces.com/contest/475/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/475/A%20-%20Bayan%20Bus/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.cpp) |
@@ -88,6 +101,7 @@
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
 | 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
@@ -104,6 +118,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
 
