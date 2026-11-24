@@ -1,1 +1,36 @@
-#include<iostream>#include<set>#define ll long longusing namespace std;int d_x[4]={1,-1,1, -1};int d_y[4]={1,1,-1,-1};int main(){    int t;    cin>>t;    while(t--){        ll a,b;        cin>>a>>b;        ll x_k,y_k;        cin>>x_k>>y_k;        ll x_q,y_q;        cin>>x_q>>y_q;        set<pair<int,int>>possible_positions_for_king;        set<pair<int,int>>possible_positions_for_queen;        for( int i=0;i<4;i++){            possible_positions_for_king.insert({x_k + d_x[i]*a, y_k + d_y[i]*b});            possible_positions_for_queen.insert({x_q + d_x[i]*a, y_q + d_y[i]*b});            possible_positions_for_king.insert({x_k + d_x[i]*b, y_k + d_y[i]*a});            possible_positions_for_queen.insert({x_q + d_x[i]*b, y_q + d_y[i]*a});        }        int count_possible_common_positions=0;        for(auto pos: possible_positions_for_king){            if(possible_positions_for_queen.find(pos)!=possible_positions_for_queen.end()){                count_possible_common_positions++;            }        }        cout<<count_possible_common_positions<<"\n";    }}
+#include<iostream>
+#include<set>
+using namespace std;
+void solve(){
+    int a,b;
+    cin>>a>>b;
+    int x1,y1;
+    cin>>x1>>y1;
+    int x2,y2;
+    cin>>x2>>y2;
+ 
+    int d1[8]={a,a,-a,-a,b,b,-b,-b};
+    int d2[8]={b,-b,b,-b,a,-a,a,-a};
+    set<pair<int,int>>king;
+    set<pair<int,int>>queen;
+    for(int i=0;i<8;i++){
+        king.insert({x1+d1[i],y1+d2[i]});
+        queen.insert({x2+d1[i],y2 + d2[i]});
+    }
+    int cnt=0;
+    for(auto& pos: king){
+        if(queen.find(pos)!=queen.end()){
+            cnt++;
+        }
+    }
+    cout<<cnt<<endl;
+}
+ int main(){
+     ios_base::sync_with_stdio(false);
+     cin.tie(NULL);
+     int t;
+     cin>>t;
+     while(t--){
+         solve();
+     }
+ }
