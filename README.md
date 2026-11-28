@@ -6,22 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 13 |
+| 28 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (8)
+- [constructive algorithms](#constructive-algorithms) (9)
 - [dfs and similar](#dfs-and-similar) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [implementation](#implementation) (7)
-- [math](#math) (9)
-- [number theory](#number-theory) (3)
+- [math](#math) (10)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (5)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (2)
@@ -33,6 +34,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1635A | [Min Or Sum](https://codeforces.com/contest/1635/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1635/A%20-%20Min%20Or%20Sum/solution.cpp) |
 
 ### brute force
 
@@ -48,6 +55,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1574A | [Regular Bracket Sequences](https://codeforces.com/contest/1574/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1574/A%20-%20Regular%20Bracket%20Sequences/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
@@ -79,6 +87,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1635A | [Min Or Sum](https://codeforces.com/contest/1635/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1635/A%20-%20Min%20Or%20Sum/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1792A | [GamingForces](https://codeforces.com/contest/1792/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1792/A%20-%20GamingForces/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
@@ -116,6 +125,7 @@
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
 | 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
+| 2289A | [Problem from Dolgoderevenskoye](https://codeforces.com/contest/2289/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2289/A%20-%20Problem%20from%20Dolgoderevenskoye/solution.cpp) |
 
 ### number theory
 
@@ -124,6 +134,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
+| 2289A | [Problem from Dolgoderevenskoye](https://codeforces.com/contest/2289/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/wide-shunks-67/Codeforces-Question-practise/blob/HEAD/2289/A%20-%20Problem%20from%20Dolgoderevenskoye/solution.cpp) |
 
 ### sortings
 
